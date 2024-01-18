@@ -1,3 +1,4 @@
 # git_training
 
-Hello WOrld
+Hello WOld
+Diff check
